@@ -1,0 +1,18 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "apellido": "Rocha",
+            "nombre": "Gastón",
+            "username": "Chinchuwiki",
+            "password": "827ccb0eea8a706c4c34a16891f84e7b"
+        },
+        {
+            "id": 2,
+            "apellido": "Avellaneda",
+            "nombre": "Sofia",
+            "username": "Popi_Latina",
+            "password": "01cfcd4f6b8770febfb40cb906715822"
+        }
+    ]
+}
